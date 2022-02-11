@@ -1,0 +1,6 @@
+{
+    "name": "RakutenPortfolio",
+    "version": "1.0",
+    "description": "保有商品を円グラフ表示する",
+    "manifest_version": 2
+}
